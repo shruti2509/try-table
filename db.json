@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "shruti",
+      "userid": 1,
+      "phonenumber": 837705549,
+      "status": "Active"
+    },
+    {
+      "name": "Aparna",
+      "userid": 2,
+      "phonenumber": 837705549,
+      "status": "Active"
+    },
+    {
+      "name": "kannu",
+      "userid": 3,
+      "phonenumber": 837705549,
+      "status": "Disable"
+    },
+    {
+      "name": "Ankit",
+      "userid": 4,
+      "phonenumber": 837705549,
+      "status": "Active"
+    },
+    {
+      "name": "Yash",
+      "userid": 5,
+      "phonenumber": 837705549,
+      "status": "Active"
+    },
+    {
+      "name": "Yash",
+      "userid": 6,
+      "phonenumber": 837705549,
+      "status": "Active"
+    }
+  ]
+}
